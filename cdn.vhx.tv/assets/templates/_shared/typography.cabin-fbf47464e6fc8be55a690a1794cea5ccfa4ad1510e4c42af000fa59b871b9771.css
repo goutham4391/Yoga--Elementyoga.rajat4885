@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'cabin';
+  src: url('https://static.vhx.tv/theme/fonts/cabin-regular.eot');
+  src: url('https://static.vhx.tv/theme/fonts/cabin-regular.eot?#iefix')
+      format('embedded-opentype'),
+    url('https://static.vhx.tv/theme/fonts/cabin-regular.woff2') format('woff2'),
+    url('https://static.vhx.tv/theme/fonts/cabin-regular.woff') format('woff'),
+    url('https://static.vhx.tv/theme/fonts/cabin-regular.ttf')
+      format('truetype'),
+    url('https://static.vhx.tv/theme/fonts/cabin-regular.svg#Cabin-Regular')
+      format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'cabin-bold';
+  src: url('https://static.vhx.tv/theme/fonts/cabin-bold.eot');
+  src: url('https://static.vhx.tv/theme/fonts/cabin-bold.eot?#iefix')
+      format('embedded-opentype'),
+    url('https://static.vhx.tv/theme/fonts/cabin-bold.woff2') format('woff2'),
+    url('https://static.vhx.tv/theme/fonts/cabin-bold.woff') format('woff'),
+    url('https://static.vhx.tv/theme/fonts/cabin-bold.ttf') format('truetype'),
+    url('https://static.vhx.tv/theme/fonts/cabin-bold.svg#Cabin-Bold')
+      format('svg');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
